@@ -122,10 +122,10 @@
 
 <div align="center">
   <a href="https://github.com/epiphanylcw/digital_image_processing">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=epiphanylcw&repo=dream-maze&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=epiphanylcw&repo=digital_image_processing&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
   </a>
   <a href="https://github.com/epiphanylcw/SCB-STA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=epiphanylcw&repo=doctopus&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=epiphanylcw&repo=SCB-STA&theme=radical&hide_border=true&title_color=FF5F6D" width="49%" />
   </a>
 </div>
 
